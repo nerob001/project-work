@@ -1,0 +1,12 @@
+﻿  main.cpp
+main.obj : error LNK2001: unresolved external symbol "public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (??1RenderWindow@sf@@UEAA@XZ)
+main.obj : error LNK2001: unresolved external symbol "public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z)
+main.obj : error LNK2001: unresolved external symbol "public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (??0Color@sf@@QEAA@EEEE@Z)
+main.obj : error LNK2001: unresolved external symbol "public: void __cdecl sf::Window::display(void)" (?display@Window@sf@@QEAAXXZ)
+main.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl sf::Window::close(void)" (?close@Window@sf@@UEAAXXZ)
+main.obj : error LNK2001: unresolved external symbol "public: bool __cdecl sf::WindowBase::pollEvent(class sf::Event &)" (?pollEvent@WindowBase@sf@@QEAA_NAEAVEvent@2@@Z)
+main.obj : error LNK2001: unresolved external symbol "public: bool __cdecl sf::WindowBase::isOpen(void)const " (?isOpen@WindowBase@sf@@QEBA_NXZ)
+main.obj : error LNK2001: unresolved external symbol "public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z)
+main.obj : error LNK2001: unresolved external symbol "public: __cdecl sf::String::String(char const *,class std::locale const &)" (??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)
+main.obj : error LNK2001: unresolved external symbol "public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (??0VideoMode@sf@@QEAA@III@Z)
+C:\Users\Lenovo\source\repos\Game Project\x64\Release\Game Project.exe : fatal error LNK1120: 10 unresolved externals
