@@ -44,7 +44,7 @@ Difficulty increases gradually over time.
 ---
 
 ## How to Build and Run
-### g++ (Linux)
+### g++ (Linux / MinGW)
 g++ -std=c++17 main.cpp -o CatchTheCircle \
     -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
 
