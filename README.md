@@ -25,7 +25,9 @@ Difficulty increases gradually over time.
 ![image alt](https://github.com/nerob001/project-work/blob/8baad08cc50df1dc8e907a1aff2478867ee92d44/Screenshot%202025-12-12%20123240.png)
 ![image alt](https://github.com/nerob001/project-work/blob/40c1c3626a2c69f763e56b6245108e3ebdd97c99/Screenshot%202025-12-12%20123253.png)
 ![image alt](https://github.com/nerob001/project-work/blob/00d2b166e37f5e80e5547e1863030bfe80e1bca6/Screenshot%202025-12-12%20124327.png)
+![image alt](https://github.com/nerob001/project-work/blob/770339f5df93bc2e7938cf115a60183428a63072/Screenshot%202025-12-12%20123316.png)
 
+---
 
 ## Controls
 - Left Arrow: Move left
