@@ -21,6 +21,7 @@ Difficulty increases gradually over time.
 ---
 
 ## Screenshots
+![image alt](https://github.com/nerob001/project-work/blob/798321acc6fd2ada6222b1c268d70537689ad09f/game.png)
 
 
 ## Controls
