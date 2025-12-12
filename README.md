@@ -23,6 +23,7 @@ Difficulty increases gradually over time.
 ## Screenshots
 ![image alt](https://github.com/nerob001/project-work/blob/798321acc6fd2ada6222b1c268d70537689ad09f/game.png)
 ![image alt](https://github.com/nerob001/project-work/blob/8baad08cc50df1dc8e907a1aff2478867ee92d44/Screenshot%202025-12-12%20123240.png)
+![image alt](https://github.com/nerob001/project-work/blob/40c1c3626a2c69f763e56b6245108e3ebdd97c99/Screenshot%202025-12-12%20123253.png)
 
 
 ## Controls
