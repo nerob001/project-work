@@ -58,5 +58,9 @@ g++ -std=c++17 main.cpp -o CatchTheCircle \
 
 ---
 
+##Owner
+- Saimor Rahman Shan - 2023831031
+- Nerob Chandra Nondi - 2023831036
+
 
   
